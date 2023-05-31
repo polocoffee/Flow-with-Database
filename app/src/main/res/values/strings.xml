@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Flow with Room Database</string>
+    <string name="floating_btn">floating_btn</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="delete_all">Delete All</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_your_contact_information">Add your contact information</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="there_is_no_contact">There is no contact</string>
+
+</resources>
